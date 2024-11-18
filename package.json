@@ -18,8 +18,8 @@
     "typescript": "^5.4.2"
   },
   "engines": {
-    "node": ">=20",
-    "pnpm": ">=8"
+    "node": ">=18.0.0",
+    "npm": ">=9.5.0"
   },
   "dependencies": {}
 }
